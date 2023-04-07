@@ -1,5 +1,4 @@
-**LAB REPORT 1
-
+**LAB REPORT 1**
 
 Installing VScode:
 
