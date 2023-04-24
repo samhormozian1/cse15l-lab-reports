@@ -14,6 +14,7 @@
 -Download VScode
 <img width="613" alt="Screenshot 2023-04-24 at 00 24 38" src="https://user-images.githubusercontent.com/130111722/233927193-4de17c24-81c0-491f-afdc-608586044bf0.png">
 
+
 * Run the installer and install
 
 * Next finish and close the installer
