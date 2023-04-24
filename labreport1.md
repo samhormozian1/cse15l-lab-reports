@@ -14,9 +14,9 @@
 -Download VScode
 <img width="613" alt="Screenshot 2023-04-24 at 00 24 38" src="https://user-images.githubusercontent.com/130111722/233927193-4de17c24-81c0-491f-afdc-608586044bf0.png">
 
--Run the installer and install
+* Run the installer and install
 
--Next finish and close the installer
+* Next finish and close the installer
 
 ---
 
@@ -35,13 +35,13 @@ In order to login we had to enter `ssh (uniqueusername)@ieng6.ucsd.edu` and then
 
 <img width="545" alt="Screenshot 2023-04-24 at 00 31 43" src="https://user-images.githubusercontent.com/130111722/233928802-cfd64755-278b-4fc5-8b3c-27db3b72c701.png">
 
-*The commands I tried today were `ls -a`, `ls -lat`, and `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`.
+* The commands I tried today were `ls -a`, `ls -lat`, and `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`.
 
-*The first command `ls -a `shows all the commands being run in the directory.
+* The first command `ls -a `shows all the commands being run in the directory.
 
-*The second command `ls -lat` lists all the possible commands that can be used in the directory.
+* The second command `ls -lat` lists all the possible commands that can be used in the directory.
 
-*The command `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` accesses the hello.txt text file and prints the contents of it, 
+* The command `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` accesses the hello.txt text file and prints the contents of it, 
 which is "Hello!"
 
-*The command `pwd` shows the current directory you are in the terminal.
+* The command `pwd` shows the current directory you are in the terminal.
