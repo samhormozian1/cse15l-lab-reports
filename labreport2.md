@@ -2,8 +2,6 @@
 
 ---
 
-![png]
-
 ## Part 1
 <img width="876" alt="Screenshot 2023-04-23 at 20 56 13" src="https://user-images.githubusercontent.com/130111722/233897533-a54dc73b-c8a5-4203-83d1-1874f1cb9f47.png">
 This is my StringServer implementation, I made it by modifying the NumberServer class we used in the Week 2 lab.
