@@ -75,7 +75,8 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 The method reverseInPlace does what it is intended to do; however it does not create a new array that inputs the new values in the desired order, 
-therefore the outputs were the unchanged. This can be fixed by making a placeholder such as 
+therefore the outputs were the unchanged. This can be fixed by making a placeholder to hold the new array elements.
+
 ---
 
 ## Part 3
