@@ -7,11 +7,15 @@
 <img width="1439" alt="Screenshot 2023-04-06 at 16 09 17" src="https://user-images.githubusercontent.com/130111722/230517509-8b1c03ce-2432-45b3-bde1-6a54d38cd4cd.png">
 
 - I had already installed VScode on my computer for a previous class, so I did not have to go through the installation process.
+
 - For those who do not have it installed they can follow these steps below:
+
 <img width="990" alt="Screenshot 2023-04-24 at 00 22 17" src="https://user-images.githubusercontent.com/130111722/233926725-ec6c4f24-27e3-4eb0-9135-19821712ffc1.png">
 -Download VScode
 <img width="613" alt="Screenshot 2023-04-24 at 00 24 38" src="https://user-images.githubusercontent.com/130111722/233927193-4de17c24-81c0-491f-afdc-608586044bf0.png">
+
 -Run the installer and install
+
 -Next finish and close the installer
 
 ---
