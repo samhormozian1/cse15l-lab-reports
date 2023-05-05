@@ -57,10 +57,9 @@ Test that passed.
 Below is the code of the reverseInPlace method with the bug in it:
 ```
 static void reverseInPlace(int[] arr) {
-    for(int i = 0; i < arr.length/2; i += 1) {
+    for(int i = 0; i < arr.length; i += 1) {
       int temp = arr[i];
       arr[i] = arr[arr.length - i - 1];
-      arr[arr.length-i-1] = temp;
     }
   }
 ```
@@ -75,7 +74,7 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 The method reverseInPlace does what it is intended to do; however it does not create a new array that inputs the new values in the desired order, 
-therefore the outputs were the unchanged. This can be fixed by making a placeholder to hold the new array elements.
+therefore the outputs were the unchanged. This can be fixed by making a placeholder to hold the new array elements. Additionally, in the updated version you only iterate up to the halfway point compared to the full version.
 
 ---
 
