@@ -1,5 +1,4 @@
  ## Lab Report 5 Part 1(Debugging Scenario) 
- =============
   Part 1:
  -----
  <img width="743" alt="Screenshot 2023-06-05 at 8 41 49 PM" src="https://github.com/samhormozian1/cse15l-lab-reports/assets/130111722/f31c4b70-2737-4a37-a060-c4478ac3c31c">
